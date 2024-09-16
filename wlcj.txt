@@ -1,5 +1,4 @@
 🇨🇳中央电视台,#genre#
-苹果香,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%99.mp4
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
@@ -785,23 +784,11 @@ YCTV[1920*1080],http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
 剧集_地下交通站,http://cfss.cc/cdn/hy/11342433.flv
 剧集_邻里一家亲,http://cfss.cc/cdn/hy/11342426.flv
 搞笑_陈翔六点半,http://cfss.cc/cdn/hy/11274154.flv
-🔞解锁密码🔞,#genre#
-
-获取密码流程,https://vd3.bdstatic.com/mda-mgqiagirsmmpuarm/1080p/cae_h264/1627218846577884242/mda-mgqiagirsmmpuarm.mp4
-🔞客服QQ1126871064,https://vd2.bdstatic.com/mda-maqfk730tsig88wr/v2-hknm/1080p/mda-maqfk730tsig88wr.mp4
-QQ号1126871064,https://vdse.bdstatic.com//1e255760ab5787c1fe1e98c44f2866a3.mp4?authorization=bce-auth-v1
-防失联加群 658738619,https://vd3.bdstatic.com/mda-ki2tx2ink1wtkbz9/hd/mda-ki2tx2ink1wtkbz9.mp4?pd=19&vt=1&playlist=
-请加QQ群 658738619,https://vd4.bdstatic.com/mda-mdbrb7fns70avrmt/1080p/cae_h264/1618222287/mda-mdbrb7fns70avrmt.mp4
-非城勿扰,http://vod.cctv.cn/cms/2018-11-15/CCTV15_2m_3ddcb6ff688d4a40b758a976318c82da-19249_video_1-001.mp4
-非城无扰,http://vod.cctv.cn/cms/2018-11-15/CCTV15_2m_cd005a3728b44a8ba29fd528b967415a-19259_video_1-001.mp4
-非城 无扰,http://vd4.bdstatic.com/mda-ik4ma1uhquea2gat/sc/mda-ik4ma1uhquea2gat.mp4
-
-
-
+测试1,#genre#
 松视4台,#genre#
 松视4台,https://u.kstore.space/download/8504/%E8%8B%B9%E6%9E%9C%E9%A6%992.mp4
 
-🌸松视直播_777,#genre#
+松视直播,#genre#
 松视1台,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/12/QnhCy-sqG4uKg?response-content-disposition=inline%3Bfilename%3Dsong-3.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1723910399&Signature=cQKaulx0q0f1fGHHs7urNj2IrDk%3D
 松视2台,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/202408/04/TAq42-q-jZhYg?response-content-disposition=inline%3Bfilename%3Dsong-2.mp4&response-content-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1723910399&Signature=v%2FbsStaMlmsLMvATrlgjklv7K1Q%3D
 松视3台,p3p://108.181.32.169:39416/650b8a0e000007df8f1b27da75d42f65
@@ -817,7 +804,7 @@ HAPPY台,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/2
 极限台HOT,p3p://108.181.32.169:39416/650b8b700004037d8f208fb144ea7e3f-type=video%2Fmp4&OSSAccessKeyId=FfDrPsUMS4h3sKnf&Expires=1723737599&Signature=GbLp4TM19wnX47uqN1pa3sKDbVo%3D
 
 
-🔞欧美剧_808,#genre#
+欧美剧,#genre#
 
 斯巴达克斯第一季1,https://v.cdnlz20.com/20240428/6158_f9665afe/index.m3u8
 2,https://v.cdnlz20.com/20240428/6159_85cdafdb/index.m3u8
@@ -832,7 +819,7 @@ HAPPY台,https://kdy-oss.oss01-cn-lasa-xzns-d01-a.cloud.ningsuan.com.cn/kodbox/2
 11,https://v.cdnlz20.com/20240428/6168_8051c2d7/index.m3u8
 12,https://v.cdnlz20.com/20240428/6169_08bca5d3/index.m3u8
 13,https://v.cdnlz20.com/20240428/6170_3bc372ca/index.m3u8
-🔞斯巴达克斯第二季_808,#genre#
+斯巴达克斯第二季,#genre#
 1,https://v.cdnlz20.com/20240428/6171_3a73fc91/index.m3u8
 2,https://v.cdnlz20.com/20240428/6172_3d539f81/index.m3u8
 3,https://v.cdnlz20.com/20240428/6173_64e012cf/index.m3u8
