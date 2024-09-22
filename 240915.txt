@@ -1,6 +1,6 @@
 张哥直播公告,#genre#
 💝重要通知,https://codeberg.org/SVIP1103950274/Ziyong2024/raw/branch/main/zhanggezhibo2024.mp4
-💝完全免费,http://210.22.75.86:9901/tsfile/live/1010_1.m3u8
+💝完全免费,http://180.175.160.126:10000/udp/239.45.3.210:5140
 💝QQ1103950274,http://mtw.so/5NPX0U
 💝把家里路由器,http://live.dxms.top/dwy/jdxj.php
 💝IPV6打开,http://live.iill.top/yy.php?id=1507704566
