@@ -790,13 +790,13 @@ CNBC,http://8.138.7.223/tv/tw8.php?id=71
 广州竞赛,https://test.zapi.us.kg/?id=gzjs
 
 上海频道,#genre#
-
+都市剧场,http://116.234.196.76:58888/udp/239.45.3.136:5140
 七彩戏曲,http://116.226.62.3:8088/udp/239.45.3.61:5140
 东方影视,http://116.226.62.3:8088/udp/239.45.3.237:5140
 第一财经,http://origin.lean.org.cn:4000/udp/239.45.3.211:5140
 五星体育,http://origin.lean.org.cn:4000/udp/239.45.3.210:5140
-上海都市,https://test.zapi.us.kg/?id=shds
-上海新闻,https://test.zapi.us.kg/?id=shxw
+上海都市,http://116.234.196.76:58888/udp/239.45.3.236:5140
+上海新闻,http://116.234.196.76:58888/udp/239.45.3.209:5140
 
 
 北京地方,#genre#
