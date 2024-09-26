@@ -660,30 +660,15 @@ TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 TVBS HD,https://test.zapi.us.kg/?id=tvbs-hd
 TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 TVBS 综艺台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
-TVBS 新闻台,https://test.zapi.us.kg/?id=tvbs-news
-TVBS 精采台,https://test.zapi.us.kg/?id=tvbs-jc
-TVBS 台剧台,https://test.zapi.us.kg/?id=tvbs-taiju
-TVBS 欢乐台,http://4gtv.mumi.rip:9877/184/4gtv-4gtv068/index.m3u8
-TVB华语剧台,https://test.zapi.us.kg/?id=tvb-drama
-TVB亚洲剧台,https://test.zapi.us.kg/?id=tvb-asia-drama
-TVB粤语片台,https://test.zapi.us.kg/?id=tvb-yueyu
 
-TVB千禧经典台,https://test.zapi.us.kg/?id=tvb-classic
-TVB娱乐新闻台,https://test.zapi.us.kg/?id=TVB ylxw
-
-TVB PLUS,https://test.zapi.us.kg/?id=tvb-plus
-TBS TV,https://test.zapi.us.kg/?id=tbs-tv
-
-TV1,https://test.zapi.us.kg/?id=tv1-my
-TV2,https://test.zapi.us.kg/?id=tv2-my
-TV3,https://test.zapi.us.kg/?id=tv3-my
-8TV,https://test.zapi.us.kg/?id=8tv
-TV9,https://test.zapi.us.kg/?id=tv9
-
-tvN Movies,https://test.zapi.us.kg/?id=tvn-movies
-tvN,https://test.zapi.us.kg/?id=tvn
-
-TVS,https://test.zapi.us.kg/?id=tvs
+河北联通,#genre#
+河北卫视,http://121.24.99.218:8090/hls/25/index.m3u8
+河北生活,http://121.24.99.218:8090/hls/26/index.m3u8
+河北农民,http://121.24.99.218:8090/hls/27/index.m3u8
+河北都市,http://121.24.99.218:8090/hls/28/index.m3u8
+河北影视,http://121.24.99.218:8090/hls/29/index.m3u8
+河北少儿科教,http://121.24.99.218:8090/hls/30/index.m3u8
+河北公共,http://121.24.99.218:8090/hls/31/index.m3u8
 
 辽宁地方,#genre#
 辽宁卫视,http://175.150.153.246:9020/rtp/232.0.0.126:1234
