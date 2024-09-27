@@ -688,6 +688,21 @@ TVBS 综艺台,http://4gtv.mumi.rip:9877/284/4gtv-live087/index.m3u8
 辽宁公共,http://42.4.217.176:9009/rtp/232.0.0.151:1234
 辽宁经济,http://42.4.217.176:9009/rtp/232.0.0.156:1234
 
+辽宁-辽宁广播电视台生活广播,http://lhttp.qingting.fm/live/1102/64k.mp3
+辽宁-辽宁广播电视台都市广播,http://lhttp.qingting.fm/live/1099/64k.mp3
+辽宁-新民人民广播电台,http://live.xmcdn.com/live/2064/64.m3u8
+辽宁-盘锦交通文艺广播,http://live.xmcdn.com/live/350/64.m3u8
+辽宁-盘锦综合广播,http://live.xmcdn.com/live/348/64.m3u8
+辽宁-盘锦经济生活广播,http://live.xmcdn.com/live/2696/64.m3u8
+辽宁-朝阳县人民广播电台,http://lhttp.qingting.fm/live/20212211/64k.mp3
+辽宁-辽宁广播电视台音乐广播,http://lhttp.qingting.fm/live/1101/64k.mp3
+辽宁-TantungTrafficRadio,http://ls.qingting.fm/live/1091.m3u8
+辽宁-绥中综合广播,http://lhttp.qingting.fm/live/20211705/64k.mp3
+辽宁-海城新闻综合广播,http://lhttp.qingting.fm/live/15318107/64k.mp3
+辽宁-TantungNewsRadio,http://ls.qingting.fm/live/1090.m3u8
+辽宁-沈阳新民广播FM103.9,http://lhttp.qingting.fm/live/5022535/64k.mp3
+辽宁-丹东交通广播,http://live.xmcdn.com/live/343/64.m3u8
+
 弯弯备用,#genre#
 中天新闻,http://8.138.7.223/tv/xsj.php?id=cti-news
 东森新闻HD,http://37.27.111.214:8080/live/20/hls.m3u8
