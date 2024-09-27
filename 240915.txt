@@ -423,18 +423,14 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 凤凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
-凤凰卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 澳门莲花,http://php.jdshipin.com:8880/amlh.php
 广东珠江,http://php.jdshipin.com:8880/itv6.php?cid=ystenlive&id=1000000004000011655
 海峡卫视,http://php.jdshipin.com:8880/fujian.php?id=9
 金鹰电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 广东生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 广东新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
-西藏藏语卫视,http://php.jdshipin.com:8880/xztv.php?id=zy
 1905电影网,http://php.jdshipin.com:8880/1905.php?id=1905dy
 金色学堂,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000010000026105
 法制天地,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=9001547084732463424
@@ -450,7 +446,6 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
 金色学堂,http://php.jdshipin.com:8880/bestv.php?id=jingsepd8m/8000000
-中华特产,http://php.jdshipin.com:8880/cqyx.php?id=techan
 河南武术,http://php.jdshipin.com:8880/hntv.php?id=wspd
 河南文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
@@ -464,7 +459,6 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 乐游,http://php.jdshipin.com:8880/itv6.php?cid=bestzb&id=5000000011000031112
 新视觉HD,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xsj
 CCTV16,http://php.jdshipin.com:8880/bestv.php?id=cctv16hd4k/15000000
-TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
 1,http://37.27.111.214:8080/live/1/hls.m3u8
 2,http://37.27.111.214:8080/live/2/hls.m3u8
 3,http://37.27.111.214:8080/live/3/hls.m3u8
