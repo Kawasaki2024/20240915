@@ -177,7 +177,7 @@ CCTV12,http://video.qd.sdu.edu.cn/liverespath/fb84bde1de15cdb0308a7910cebc049759
 CCTV13,http://video.qd.sdu.edu.cn/liverespath/8a2f3cd1ae4091c8d073cd239518f24cd4560d8e/index.m3u8
 CCTV14,http://video.qd.sdu.edu.cn/liverespath/0e0973e58d4835f4b872548164462930003f77b4/index.m3u8
 CCTV15,http://video.qd.sdu.edu.cn/liverespath/59c02d176e7c3b05a62a9bb42be1ca2a92df2e1c/index.m3u8
-CGTN英语,http://video.qd.sdu.edu.cn/liverespath/24aebb75a7e6184f5eefe72bd330328a7fa4fbb8/index.m3u8
+
 CCTV第一剧场,http://113.195.4.134:9901/tsfile/live/1028_1.m3u8?key=txiptv
 CCTV风云剧场,http://113.195.4.134:9901/tsfile/live/1085_1.m3u8?key=txiptv
 CCTV风云剧场,http://113.195.4.134:9901/tsfile/live/1037_1.m3u8?key=txiptv
@@ -187,10 +187,7 @@ CCTV风云足球,http://113.195.4.134:9901/tsfile/live/1049_1.m3u8?key=txiptv
 BRTV文艺,http://video.qd.sdu.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/index.m3u8
 BRTV影视,http://video.qd.sdu.edu.cn/liverespath/d68ca2a45a66f1289325852228ee748974c431ca/index.m3u8
 BRTV生活,http://video.qd.sdu.edu.cn/liverespath/89ed1379f4c4cc9a436aacabc882365f512a7595/index.m3u8
-BRTV科教,http://video.qd.sdu.edu.cn/liverespath/72e61aa5ca26beb9dd17a950d2a8c6171a5cd998/index.m3u8
 BRTV财经,http://video.qd.sdu.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/index.m3u8
-BRTV体育,http://video.qd.sdu.edu.cn/liverespath/85e67548eb4b2a78b704e349eb27a9e787b63138/index.m3u8
-BRTV青年,http://video.qd.sdu.edu.cn/liverespath/7d476b1bc4c2e717f2525a35e31faf071f648faf/index.m3u8
 BRTV新闻,http://video.qd.sdu.edu.cn/liverespath/e0f83dca54734aea4920c0125111c84859d2a012/index.m3u8
 BRTV卡酷少儿,http://video.qd.sdu.edu.cn/liverespath/b928229e615248d7a2c6f9ea047f25cf37a3a0af/index.m3u8
 BRTV体育休闲,http://video.qd.sdu.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/index.m3u8
@@ -220,8 +217,7 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 江西卫视,http://video.qd.sdu.edu.cn/liverespath/5262d7f97311b82a4a460f3b8221e4a7d394c2c0/index.m3u8
 海南卫视,http://video.qd.sdu.edu.cn/liverespath/6439a34cf7b96bdfd8c4234fc91cb4912c9becd1/index.m3u8
 北京卫视,http://video.qd.sdu.edu.cn/liverespath/f6555824f9b96b7f0adabeadabbcca1eb143af34/index.m3u8
-纪实人文,http://video.qd.sdu.edu.cn/liverespath/98a578339579ce91ec2443bfbd1fc3af10ee02bd/index.m3u8
-乐游频道,http://video.qd.sdu.edu.cn/liverespath/56840359360f071dfdd9568e7ab86d1b3232a9ee/index.m3u8
+
 金鹰纪实,http://video.qd.sdu.edu.cn/liverespath/d623386366118b9f7e610c167dbb8dc552b7660c/index.m3u8
 天津卫视,http://video.qd.sdu.edu.cn/liverespath/41433c450cf4747cf2600adecc560bc90f344182/index.m3u8
 河北卫视,http://video.qd.sdu.edu.cn/liverespath/0d0303a991ca71e06290b546e34104dbe0d0c64a/index.m3u8
@@ -234,7 +230,7 @@ CHC影迷电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 云南卫视,http://video.qd.sdu.edu.cn/liverespath/d45a277ca433670e3f463b497783af19bb2c63f8/index.m3u8
 甘肃卫视,http://video.qd.sdu.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/index.m3u8
 兵团卫视,http://video.qd.sdu.edu.cn/liverespath/bfbbd9a299af8614a14139c6d5ecb8ba27bd38ba/index.m3u8
-贵州卫视,http://video.qd.sdu.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/index.m3u8
+贵州卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 CETV-1,http://video.qd.sdu.edu.cn/liverespath/85558d86e1bcab9405a28515bc414ba3676ecbde/index.m3u8
 CETV-3,http://video.qd.sdu.edu.cn/liverespath/3a13f3b554cd6c3764599392bb43650e4e015b87/index.m3u8
 CETV-4,http://video.qd.sdu.edu.cn/liverespath/d9fd740848ee6bc5d883832bba7cafb90524390e/index.m3u8
