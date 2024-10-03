@@ -12,7 +12,7 @@
 💝选择一线EPG,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 💝退出再进,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 💝安卓9专用,http://beishan008.asuscomm.com:8890/bysid/82
-💝安卓4用不了,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+💝IPV6专用,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
