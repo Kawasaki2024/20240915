@@ -1,5 +1,5 @@
 张哥直播公告,#genre#
-💝重要通知,https://codeberg.org/SVIP1103950274/Ziyong2024/raw/branch/main/zhanggezhibo2024.mp4
+💝重要通知,https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/zhanggezhibo2024.mp4
 💝完全免费,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000002000009455/1.m3u8$高清4K
 💝QQ1103950274,http://mtw.so/5NPX0U
 💝把家里路由器,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8$高清
@@ -17,7 +17,7 @@
 央视频道,#genre#
 CCTV1,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 CCTV1,http://video.qd.sdu.edu.cn/liverespath/b455c7a019d404d571655c457e0ee8a9440a7802/index.m3u8
-CCTV2,http://video.qd.sdu.edu.cn/liverespath/6b13fe5368d391761312a985ace065c0ecad2f5e/index.m3u8
+CCTV2,http://120.76.248.139/live/bfgd/4200000061.m3u8
 CCTV2,http://123.112.213.221:4022/rtp/239.3.1.60:8084
 CCTV3,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
 CCTV4,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
