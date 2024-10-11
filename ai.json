@@ -1,11 +1,11 @@
 {
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "warningText": "已加载",
-  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan40914.jar",
+  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan41010.jar",
   "sites": [
     {
       "key": "豆瓣1",
-      "name": "🍇【发发发发】(日期0914)",
+      "name": "🍇【发发发发】(日期1011)",
       "type": 3,
       "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv15drpy2.min.js",
       "searchable": 0,
@@ -36,16 +36,6 @@
           "from":"4k|auto",
           "siteUrl":"https://www.wogg.net/",
           "danMu":"弹"}
-    },
-    {
-      "key": "csp_Vidhub2",
-      "name": "🎼|Vid|肥猫",
-      "type": 3,
-      "api": "csp_Vidhub2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
     },
     {
       "key": "csp_Lib",
@@ -89,7 +79,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar",
       "ext": {
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
         "分类url": "https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -103,7 +93,7 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar"
     },
     {
         "key": "FreeOK☭ ",
@@ -115,17 +105,6 @@
         "filterable": 1,
         "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar",
         "ext":"https://ghproxy.net/https://raw.githubusercontent.com/793641910/binge/main/json/FreeOK.json"
-    },
-    {
-        "key": "NRTFIY星球",
-        "name": "🥅|NETFIY|兵哥",
-        "type": 3,
-        "api": "csp_AppYsV2",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar",
-        "ext": "https://www.netfly.tv/api.php/app/"
     },
     {
         "key": "csp_qx",
@@ -184,13 +163,6 @@
       "changeable": 1
     },
     {
-      "key": "drpy_js_网飞.TV",
-      "name": "🥅|网飞|道长",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
-    },
-    {
       "key": "csp_XYQHiker_‍dyx",
       "name": "⭕|宙磁|高清",
       "type": 3,
@@ -246,7 +218,7 @@
         "type": "rect",
         "ratio": 1.43
       },
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
     {
       "key": "蜡笔弹幕ok",
@@ -263,7 +235,7 @@
         "danmu": true
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
      {
       "key": "土豆网盘",
@@ -279,7 +251,7 @@
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
     {
       "key": "nangua2",
@@ -290,7 +262,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
     {
       "key": "天天ok",
@@ -301,18 +273,36 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
     {
       "key": "️爱看Botok",
-      "name": "⛅️|👌|爱看Bot",
+      "name": "👾|👌|爱看Bot",
       "type": 3,
       "api": "csp_Ikanbot",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg40902.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
+    },
+     {
+      "key": "立播弹幕版",
+      "name": "🟨|👌|libvio",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "token": "file://TV/ali_token.txt",
+        "cookie": "file://TV/quark_cookie.txt",
+        "uc_cookie": "file://TV/uc_cookie.txt",
+        "site": "https://libvio.link",
+        "danmu": true
+      },
+      "timeout": 30,
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41010.jar"
     },
      {
       "key": "兄弟",
@@ -322,7 +312,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar"
     },
     {
       "key": "可可",
@@ -333,14 +323,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar"
     },
      {
       "key": "csp_Nongmfeimao",
       "name": "🌾️|农民|肥猫",
       "type": 3,
       "api": "csp_Nongm",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar"
     },
     {
       "key": "FreeOK2",
@@ -350,14 +340,14 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar"
     },
     {
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar",
       "ext": {
         "线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
@@ -377,25 +367,6 @@
        "filterable": 1,
        "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/TVB%E4%BA%91%E6%92%AD.json",
        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar"
-    },
-    {
-      "key": "云播影视",
-      "name": "☁️|云播|肥猫",
-      "type": 3,
-      "playerType": "2",
-      "api": "http://js.xn--z7x900a.com/js/lib/drpy2.min.js",
-      "ext": "http://js.xn--z7x900a.com/js/TVB云播.js"
-    },
-    {
-      "key": "新视觉",
-      "name": "🐦|视觉|肥猫",
-      "type": 3,
-      "api": "csp_Xinsj",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.3ayy.com",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar"
     },
     {
         "key":"达达龟",
@@ -419,28 +390,6 @@
       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
       "ext": "https://v.ikanbot.com"
     },
-      {
-      "key": "csp_XYQHiker_MOFLIX影院",
-      "name": "💫|MOFLIX|香雅情",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/MOFLIX%E5%BD%B1%E9%99%A2.json"
-    },
-    {
-      "key": "csp_XYQHiker_奈飞中文",
-      "name": "🎿|奈飞|香雅情",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/%E5%A5%88%E9%A3%9E%E4%B8%AD%E6%96%87.json"
-    },
      {
       "key": "黑狐",
       "name": "🦊|黑狐|肥猫",
@@ -450,7 +399,7 @@
       "changeable": 1,
       "playerType": "2",
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240908.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ240913.jar",
       "ext": {
         "站名": "黑狐影院",
         "主页url": "http://fagmn.com",
@@ -483,28 +432,6 @@
         "分类": "电影$1#电视剧$2#动漫$3#综艺$4",
         "分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"
       }
-    },
-    {
-      "key": "csp_疯狗",
-      "name": "🐰|疯狗|茶秀",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/HeChengChaXiu40228.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
-    },
-    {
-      "key": "csp_XYQHiker_疯狗影视",
-      "name": "🐶|疯狗|香雅情",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/%E7%96%AF%E7%8B%97%E5%BD%B1%E8%A7%86.json"
     },
     {
         "key": "csp_Mp4Mov",
@@ -605,7 +532,7 @@
       "key": "PanSou",
       "name": "✅|盘搜|阿狸",
       "type": 3,
-      "api": "csp_PanSou",
+      "api": "csp_PanSso",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
