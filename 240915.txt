@@ -38,10 +38,19 @@ CCTV16,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
 CHC动作电影,http://video.qd.sdu.edu.cn/liverespath/e0096742f0c5be4c5225cf3c7ab1077177bec05f/index.m3u8
+CHC家庭影院,http://222.141.134.191:888/rtp/225.1.4.209:1262
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
-CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540
+
 CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8
-CHC高清电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e695b342c1d1eca0/index.m3u8
+CHC家庭影院,http://219.157.255.62:8888/rtp/225.1.4.209:1262$郑州联
+CHC动作电影,http://219.157.255.62:8888/rtp/225.1.4.208:1261$郑州联
+CHC高清电影,http://219.157.255.62:8888/rtp/225.1.4.207:1260$郑州联
+CHC家庭影院,http://222.141.134.191:8888/rtp/225.1.4.209:1262$郑州联
+CHC动作电影,http://222.141.134.191:8888/rtp/225.1.4.208:1261$郑州联
+CHC高清电影,http://222.141.134.191:8888/rtp/225.1.4.207:1260$郑州联
+CHC动作电影,http://111.166.121.213:8888/rtp/225.1.1.215:5002$天津联
+CHC高清电影,http://111.166.121.213:8888/rtp/225.1.1.214:5002$天津联
+CHC家庭影院,http://111.166.121.213:8888/rtp/225.1.1.213:5002$天津联
 
 
 卫视频道,#genre#
@@ -50,10 +59,14 @@ CHC高清电影,http://video.qd.sdu.edu.cn/liverespath/bca6167afdef7fc773405c38e
 凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://xeace.cn:8888/udp/239.93.0.118:2191
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
+QVC Japan,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+NHK WORLD JAPAN,http://210.210.155.35/uq2663/h/h23/index.m3u8?app_type=web&userid=50n13N0v14nd1&tkn=829341hrjhaq0q30q&chname=NHK_WORLD-JAPAN
 HBO,http://41.205.93.154/HBO/index.m3u8
-HBO FAMILY,https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8
-HBO PREMIUM,https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8+
-高清,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8580/.m3u8
+HBO 2,https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+TVBSNEWS,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://50.7.234.10:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
+HBO FAMILY,http://50.7.234.10:8278/fyi_twn/playlist.m3u8?tid=m99b80124e3b4&ct=18337&tsum=73f6f540497de9a5615b9bd55bec8853
+HBO PREMIUM,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 TVB翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
