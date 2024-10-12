@@ -1,18 +1,18 @@
 {
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "warningText": "已加载",
-  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan41011.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/spider/okjpg41011.jar",
   "sites": [
     {
       "key": "豆瓣1",
-      "name": "🍇【发发发发】(日期1012)",
+      "name": "🍇【张哥TV永久】(日期1012)",
       "type": 3,
-      "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv15drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/apiv15drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/drpy.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js"
     },
     {
       "key": "豆瓣",
