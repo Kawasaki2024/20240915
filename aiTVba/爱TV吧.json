@@ -14,26 +14,26 @@
 "changeable": 0,
 "ext"："https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js""ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js"
 },},
-{{
-"密钥"："豆瓣"，"key": "豆瓣",
-"name"："🥔|豆瓣|趋势"，"name": "🥔|豆瓣|趋势",
-"type"：3，"type": 3,
-"api"："csp_豆豆"，"api": "csp_DouDou",
-"可搜索"：0，"searchable": 0,
-"快速搜索"：0，"quickSearch": 0,
-“可筛选”：0"filterable": 0
-},},
-{{
-"key"："csp_WoGG"，"key": "csp_WoGG",
-"name"："👽|玩偶|4K"，"name": "👽|玩偶|4K",
-"type"：3，"type":3,
-"api"："csp_WoGG"，"api":"csp_WoGG",
-"可搜索"：1，"searchable":1,
-"快速搜索"：1，"quickSearch":1,
-"可更改"：0，"changeable":0, 
-"ext"：{"ext": {
-"云驱"："TVFan/Cloud-drive.txt"，"Cloud-drive":"tvfan/Cloud-drive.txt",
-"来自"："4k|auto"，"from":"4k|auto",
+{
+      "key": "豆瓣",
+      "name": "🥔|豆瓣|趋势",
+      "type": 3,
+      "api": "csp_DouDou",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+    },
+    {
+      "key": "csp_WoGG",
+      "name": "👽|玩偶|4K",
+      "type":3,
+      "api":"csp_WoGG",
+      "searchable":1,
+      "quickSearch":1,
+      "changeable":0, 
+      "ext": {
+          "Cloud-drive":"tvfan/Cloud-drive.txt",
+          "from":"4k|auto",
           "siteUrl":"https://www.wogg.net/",
           "danMu":"弹"}
     },
