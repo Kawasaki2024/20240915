@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣1",
-      "name": "🍇【拒绝付费】(日期1019)",
+      "name": "拒绝付费接口-从我做起",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/apiv15drpy2.min.js",
       "searchable": 0,
