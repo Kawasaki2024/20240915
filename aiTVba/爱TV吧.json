@@ -1,20 +1,20 @@
 {
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "warningText": "已加载",
-  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/spider/fan41018.jar",
+  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan41018.jar",
   "sites": [
     {
-"key": "豆瓣1",
-"name": "🍇【发发发发】(日期1018)",
-"type": 3
-"api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/apiv15drpy2.min.js",
-"searchable": 0,
-"quickSearch": 0,
-"filterable": 1,
-"changeable": 0,
-"ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js"
-},
-{
+      "key": "豆瓣1",
+      "name": "🍇【发发发发】(日期1018)",
+      "type": 3,
+      "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv15drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/drpy.js"
+    },
+    {
       "key": "豆瓣",
       "name": "🥔|豆瓣|趋势",
       "type": 3,
@@ -50,7 +50,7 @@
       "from":"4k|auto"
       }
     },
-   {
+    {
         "key": "csp_xb_8h",
         "name": "🎱|8号|yhxxm",
         "type": 3,
@@ -218,7 +218,7 @@
         "type": "rect",
         "ratio": 1.43
       },
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
     {
       "key": "蜡笔弹幕ok",
@@ -235,7 +235,7 @@
         "danmu": true
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
      {
       "key": "土豆网盘",
@@ -251,7 +251,7 @@
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
     {
       "key": "nangua2",
@@ -262,7 +262,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
     {
       "key": "天天ok",
@@ -273,7 +273,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
     {
       "key": "️爱看Botok",
@@ -284,7 +284,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
      {
       "key": "立播弹幕版",
@@ -302,7 +302,7 @@
         "danmu": true
       },
       "timeout": 30,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41011.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
     },
      {
       "key": "兄弟",
