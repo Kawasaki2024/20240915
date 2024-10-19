@@ -1,18 +1,18 @@
 {
   "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
   "warningText": "已加载",
-  "spider": "https://raw.gitmirror.com/Kawasaki2024/20240915/blob/main/aiTVba/spider/fan41018.jar",
+  "spider": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/fan41018.jar",
   "sites": [
     {
       "key": "豆瓣1",
       "name": "🍇【拒绝付费】(日期1018)",
       "type": 3,
-      "api": "https://raw.gitmirror.com/20240915/blob/main/aiTVba/lib/apiv15drpy2.min.js",
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/apiv15drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
       "changeable": 0,
-      "ext": "https://raw.gitmirror.com/Kawasaki2024/20240915/blob/main/aiTVba/lib/drpy.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/drpy.js"
     },
     {
       "key": "豆瓣",
