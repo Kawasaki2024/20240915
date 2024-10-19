@@ -1,17 +1,17 @@
 {
-"壁纸"："http://like.xn--z7x900a.com/ppic/feimao.php"，"wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
-"warningText"："已加载"，"warningText": "已加载",
-"蜘蛛"："https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/spider/okjpg41011.jar"，"spider": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/spider/okjpg41011.jar",
-“站点”：["sites": [
-{{
-"密钥"："豆瓣1"，"key": "豆瓣1",
+  "wallpaper": "http://like.xn--z7x900a.com/ppic/feimao.php",
+  "warningText": "已加载",
+  "spider": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/fan41018.jar",
+  "sites": [
+    {
+"key": "豆瓣1",
 "name": "🍇【发发发发】(日期1018)",
-"type"：3，"type": 3,
+"type": 3
 "api"："https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/apiv15drpy2.min.js"，"api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/apiv15drpy2.min.js",
-"可搜索"：0，"searchable": 0,
-"快速搜索"：0，"quickSearch": 0,
-"可过滤"：1，"filterable": 1,
-"可更改"：0，"changeable": 0,
+"searchable": 0,
+"quickSearch": 0,
+"filterable": 1,
+"changeable": 0,
 "ext"："https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js""ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js"
 },},
 {{
