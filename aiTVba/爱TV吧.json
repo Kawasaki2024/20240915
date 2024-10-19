@@ -13,7 +13,7 @@
 "filterable": 1,
 "changeable": 0,
 "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/refs/heads/main/aiTVba/lib/drpy.js"
-},},
+},
 {
       "key": "豆瓣",
       "name": "🥔|豆瓣|趋势",
@@ -50,7 +50,7 @@
       "from":"4k|auto"
       }
     },
-    {
+   {
         "key": "csp_xb_8h",
         "name": "🎱|8号|yhxxm",
         "type": 3,
