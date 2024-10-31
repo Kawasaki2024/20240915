@@ -11,7 +11,7 @@
 💝联系作者更新,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225644/main.m3u8
 💝感谢您的支持,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 💝永久免费,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-💝禁止注入,http://beishan008.asuscomm.com:8890/bysid/82
+💝禁止扒源,http://beishan008.asuscomm.com:8890/bysid/82
 💝IPV6专用,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
 央视频道,#genre#
@@ -72,7 +72,7 @@ TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 TVB翡翠台,http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv
 
-TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+TVB星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
 TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
 星空卫视,http://119.129.172.208:8081/hls/18/index.m3u8
