@@ -49,8 +49,6 @@ CHC家庭影院,http://222.141.134.191:888/rtp/225.1.4.209:1262$线路1
 CHC家庭影院,http://nas.tuyuannet.cn:8800/rtp/239.37.0.188:5540$线路2
 CHC家庭影院,http://cg11.hunancatv.cn:9090/live/CHCJTYY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316833&srchost=172.16.22.158:8060&gid=c%2BNqgq8pR1ZQ7ZzcmkS8%2BQ%3D%3D$线路3
 
-CHC高清电影,http://58.19.38.162:9901/tsfile/live/1038_1.m3u8$线路1
-CHC高清电影,http://112.226.139.185:9999/udp/239.253.254.154:8000$线路2
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D$线路3
 
 卫视频道,#genre#
