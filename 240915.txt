@@ -17,6 +17,10 @@
 央视频道,#genre#
 
 CCTV-1 综合,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV-1 综合,http://61.164.209.90/cache.ott.bestlive.itv.cmvideo.cn/000000001000/1000000005000265001/index.m3u8?channel-id=bestlive&Contentid=1000000005000265001&livemode=1&stbId=no
+CCTV-1 综合,http://121.232.187.4:6000/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-1 综合,http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
+CCTV-1 综合,http://183.66.15.146:60901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV-2 财经,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002135/index.m3u8
 CCTV-2 财经,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226676/index.m3u8
 CCTV-3 综艺,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
