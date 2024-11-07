@@ -120,39 +120,24 @@ CETV-2,http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/TVOD/888888
 CETV-4,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225783/index.m3u8
 
 备用央视,#genre#
-CCTV-1 HD,http://221.221.151.0:8888/rtp/239.3.1.129:8008
-CCTV-2 HD,http://221.221.151.0:8888/rtp/239.3.1.60:8084
-CCTV-3 HD,http://221.221.151.0:8888/rtp/239.3.1.172:8001
-CCTV-4 HD,http://221.221.151.0:8888/rtp/239.3.1.105:8092
-CCTV-5 HD,http://221.221.151.0:8888/rtp/239.3.1.173:8001
-CCTV-5+ HD,http://221.221.151.0:8888/rtp/239.3.1.130:8004
-CCTV-6 HD,http://221.221.151.0:8888/rtp/239.3.1.174:8001
-CCTV-7 HD,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000017218/1.m3u8
-CCTV-8 HD,http://221.221.151.0:8888/rtp/239.3.1.175:8001
-CCTV-9 HD,http://221.221.151.0:8888/rtp/239.3.1.62:8112
-CCTV-10 HD,http://221.221.151.0:8888/rtp/239.3.1.63:8116
-CCTV-11 HD,http://221.221.151.0:8888/rtp/239.3.1.152:8120
-CCTV-12 HD,http://221.221.151.0:8888/rtp/239.3.1.64:8124
-CCTV-13 HD,http://221.221.151.0:8888/rtp/239.3.1.124:8128
-CCTV-14 HD,http://221.221.151.0:8888/rtp/239.3.1.65:8132
-CCTV-15 HD,http://221.221.151.0:8888/rtp/239.3.1.153:8136
-CCTV-16 奥林匹克[HDR],http://221.221.151.0:8888/rtp/239.3.1.183:8001
-CCTV-16 奥林匹克HD,http://221.221.151.0:8888/rtp/239.3.1.184:8001
-CCTV-17 HD,http://221.221.151.0:8888/rtp/239.3.1.151:8144
-
-CCTV4,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226652/index.m3u8
-CCTV4,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002173/index.m3u8
-CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002139/index.m3u8
-CCTV7,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002141/index.m3u8
-CCTV8,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226150/index.m3u8
-CCTV11,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226541/index.m3u8
-CCTV11,http://[2409:8087:74d9:21::6]:80/270000001322/69900158041111100000002177/index.m3u8
-CCTV12,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226436/index.m3u8
-CCTV13,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226438/index.m3u8
-CCTV14,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226166/index.m3u8
-CCTV15,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226616/index.m3u8
-CCTV16,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226413/index.m3u8
-CCTV17,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000513/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000513
+CCTV1,http://kxrj.site:998/123/mg.php?id=cctv1&咪咕
+CCTV2,http://kxrj.site:998/123/mg.php?id=cctv2&咪咕
+CCTV3,http://kxrj.site:998/123/mg.php?id=cctv3&咪咕
+CCTV4,http://kxrj.site:998/123/mg.php?id=cctv4&咪咕
+CCTV5,http://kxrj.site:998/123/mg.php?id=cctv5&咪咕
+CCTV5+,http://kxrj.site:998/123/mg.php?id=cctv5p&咪咕
+CCTV6,http://kxrj.site:998/123/mg.php?id=cctv6&咪咕
+CCTV7,http://kxrj.site:998/123/mg.php?id=cctv7&咪咕
+CCTV8,http://kxrj.site:998/123/mg.php?id=cctv8&咪咕
+CCTV9,http://kxrj.site:998/123/mg.php?id=cctv9&咪咕
+CCTV10,http://kxrj.site:998/123/mg.php?id=cctv10&咪咕
+CCTV11,http://kxrj.site:998/123/mg.php?id=cctv11&咪咕
+CCTV12,http://kxrj.site:998/123/mg.php?id=cctv12&咪咕
+CCTV13http://kxrj.site:998/123/mg.php?id=cctv13&咪咕
+CCTV14,http://kxrj.site:998/123/mg.php?id=cctv14&咪咕
+CCTV15,http://kxrj.site:998/123/mg.php?id=cctv15&咪咕
+CCTV16,http://kxrj.site:998/123/mg.php?id=cctv16&咪咕
+CCTV17,http://kxrj.site:998/123/mg.php?id=cctv17&咪咕
 
 CHC影迷电影,http://cg14.hunancatv.cn:9090/live/CHCGQ_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604315487&srchost=172.16.22.158:8060&gid=QTVto%2BZu6pkkcNYy4OxcMg%3D%3D
 CHC动作电影,http://cg0.hunancatv.cn:9090/live/CHCDZDY_8000.m3u8?deviceid=866265039837531&sid=Yp6brv0MWYukAl4oJr9yrw%3D%3D&nonce=Ri1TgJg9dlAK&acl=0111&hlsSessionID=11082234455604316076&srchost=172.16.22.158:8060&gid=ZF3q5L%2FmYWch1qWqTIPAjw%3D%3D
