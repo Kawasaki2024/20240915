@@ -51,35 +51,12 @@
       }
     },
     {
-        "key": "csp_xb_8h",
-        "name": "🎱|8号|yhxxm",
-        "type": 3,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "api": "csp_XBiu",
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xyq0410.jar",
-        //"ext":"http://www.soutiyi.com/frim/{cateId}-{catePg}.html"
-        "ext":"http://www.bahaoys.com/frim/{cateId}-{catePg}.html"
-    },
-    { 
-        "key": "csp_sp_sh",
-        "name": "🔥|火火|yhxxm",
-        "type": 3,
-        "api": "csp_XBiu",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 0,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xyq0410.jar",
-        "ext":"https://www.saohuotva.com/s/{cateId}/page/{catePg}.html"
-    },
-    {
       "key": "Libvio",
       "name": "💐|LibVio|肥猫",
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
         "分类url": "https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -93,45 +70,29 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+    },
+   {
+      "key": "FreeOK",
+      "name": "️️✌|Freeok|兵哥",
+      "type": 3,
+      "api": "csp_FreeOK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xiaosa41104.jar"
     },
     {
-        "key": "FreeOK☭ ",
-        "name": "✌|FreeOK|兵哥",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar",
-        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/793641910/binge/main/json/FreeOK.json"
-    },
-    {
-        "key": "csp_qx",
-        "name": "⑦|七新|兵哥",
-        "type": 3,
-        "api": "csp_XBPQ",
-        "playerType": 1,
-        "searchable": 1,
-        "quickSearch": 1,
-        "filterable": 1,
-        "ext": {
-                "站名": "七新影视",
-                "主页url": "http://www.7xdy.com/",
-                "简介": "<span class=\"detail-content\" style=\"display: none;\">&&</span>",
-                "导演": "导演：&&</a>",
-                "主演": "主演：&&</a>",
-                "搜索url": "http://www.7xdy.com/search.php;post;searchword={wd}",
-                "影片状态": "集数：&&</div>",
-                "影片类型": "video-tag-icon\">&&立即播放",
-                "免嗅": "0",
-                "图片": "data-original=\"&&\"",
-                "线路数组": "<h3&&</h3>",
-                "分类url": "http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html",
-                "分类": "电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"
-            },
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/BinGeShiJie40527.jar"
-    }, 
+            "key": "视频库",
+            "name": "💽|vidhub|兵哥",
+            "type": 3,
+            "api": "csp_WebVidHub",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://vidhub1.cc",
+            "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xiaosa41104.jar"
+     },
     {
       "key": "drpy_js_LIBVIO",
       "name": "💠|LibVio|道长",
@@ -139,17 +100,6 @@
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvio/LIBVIO.js"
       //"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
-    },
-    {
-        "key": "AppYs_南瓜ymz",
-        "name": "👑|南瓜|ymz已停更",
-        "type": 3,
-        "playerType":2,
-        "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/drpy2.min%20nanguaymz.js",                     
-        "changeable": 0,
-        "searchable": 1,
-        "quickSearch": 1,
-        "ext": "https://jihulab.com/ymz1231/js/-/raw/main/%E5%8D%97%E7%93%9C.js"
     },
     {
       "key": "可可2",
@@ -218,7 +168,7 @@
         "type": "rect",
         "ratio": 1.43
       },
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "蜡笔弹幕ok",
@@ -235,7 +185,18 @@
         "danmu": true
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+    },
+    {
+        "key":"糯米",
+        "name":"🍓|‍👌|‍糯米",
+        "type":3,
+        "api":"csp_Nmys",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "timeout":10,
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
      {
       "key": "土豆网盘",
@@ -251,18 +212,16 @@
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
     {
-      "key": "nangua2",
-      "name": "🎃|‍👌|南瓜",
-      "type": 3,
-      "api": "csp_Nangua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+        "key":"木耳",
+        "name":"🪴|👌|木耳",
+        "type":1,
+        "api":"https://json02.heimuer.xyz/api.php/provide/vod",
+        "searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],
+        "header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "天天ok",
@@ -273,7 +232,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "️爱看Botok",
@@ -284,7 +243,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
      {
       "key": "立播弹幕版",
@@ -302,17 +261,14 @@
         "danmu": true
       },
       "timeout": 30,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41014.jar"
+       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
     },
-     {
-      "key": "兄弟",
-      "name": "👯|兄弟|肥猫",
-      "type": 3,
-      "api": "csp_Xdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar"
+    {
+        "key":"csp_Jpyy",
+        "name":"🥇️|金牌|肥猫",
+        "type":3,
+        "api":"csp_Jpyy",
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
     },
     {
       "key": "可可",
@@ -323,31 +279,42 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar"
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
     },
      {
       "key": "csp_Nongmfeimao",
       "name": "🌾️|农民|肥猫",
-      "type": 3,
-      "api": "csp_Nongm",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar"
+      "type":3,
+      "api":"csp_Nongm",
+      "ext":"https://wwgz.cn",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
     },
     {
-      "key": "FreeOK2",
-      "name": "️️👌|Fre|肥猫",
-      "type": 3,
-      "api": "csp_FreeOK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar"
+        "key":"csp_SaoHuo",
+        "name":"🔥┃火火┃影视",
+        "type":3,
+        "api":"csp_SaoHuo",
+        "playerType":2,
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+    },
+    {
+        "key":"可可",
+        "name":"😝┃可可┃影视",
+        "type":3,
+        "playerType":"2",
+        "api":"csp_Keke",
+        "searchable":1,
+        "quickSearch":1,
+        "filterable":1,
+        "ext":"https://www.kkys02.com",
+        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
     },
     {
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
@@ -399,7 +366,7 @@
       "changeable": 1,
       "playerType": "2",
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241006.jar",
+      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "站名": "黑狐影院",
         "主页url": "http://fagmn.com",
