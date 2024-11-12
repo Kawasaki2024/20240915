@@ -56,7 +56,7 @@
       "type": 3,
       "api": "csp_XBPQ",
       "playerType": 2,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
         "分类url": "https://www.libvio.cc/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
@@ -70,7 +70,7 @@
       "type": 3,
       "playerType": "2",
       "ext": "http://api2.rinhome.com",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
    {
       "key": "FreeOK",
@@ -80,7 +80,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xiaosa41104.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/xiaosa41104.jar"
     },
     {
             "key": "视频库",
@@ -91,14 +91,14 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "https://vidhub1.cc",
-            "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/xiaosa41104.jar"
+            "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/xiaosa41104.jar"
      },
     {
       "key": "drpy_js_LIBVIO",
       "name": "💠|LibVio|道长",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvio/LIBVIO.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/libvio/LIBVIO.js"
       //"ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/LIBVIO.js"
     },
     {
@@ -120,8 +120,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/dyg.json",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/dyg.json",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/spider.txt;md5;B880BBAD2845D16CFB86CCA0331B2621"
     },
     {
       "key": "csp_LiteApple",
@@ -168,7 +168,7 @@
         "type": "rect",
         "ratio": 1.43
       },
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "蜡笔弹幕ok",
@@ -185,7 +185,7 @@
         "danmu": true
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
         "key":"糯米",
@@ -196,7 +196,7 @@
         "quickSearch":1,
         "filterable":1,
         "timeout":10,
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
      {
       "key": "土豆网盘",
@@ -212,7 +212,7 @@
         "site": "https://tudou.lvdoui.top"
       },
       "timeout": 25,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
         "key":"木耳",
@@ -221,7 +221,7 @@
         "api":"https://json02.heimuer.xyz/api.php/provide/vod",
         "searchable":1,"filterable":1,"changeable":1,"timeout":20,"categories":["剧情片","动作片","冒险片","喜剧片","奇幻片","恐怖片","悬疑片","惊悚片","灾难片","爱情片","犯罪片","科幻片","歌舞片","战争片","经典片","动画电影","网络电影","其他片","国产剧","港剧","韩剧","日剧","泰剧","台剧","欧美剧","新马剧","其他剧","国产综艺","港台综艺","韩国综艺","日本综艺","欧美综艺","新马泰综艺","其他综艺","古装短剧","虐恋短剧","逆袭短剧","神豪短剧","重生短剧","复仇短剧","穿越短剧","甜宠短剧","强者短剧","欧美动漫","日本动漫","韩国动漫","国产动漫","港台动漫"],
         "header":{"user-agent":"Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/125.0.0.0Safari/537.36"},
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "天天ok",
@@ -232,7 +232,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
       "key": "️爱看Botok",
@@ -243,7 +243,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "timeout": 10,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
      {
       "key": "立播弹幕版",
@@ -261,14 +261,14 @@
         "danmu": true
       },
       "timeout": 30,
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/okjpg41101.jar"
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/okjpg41101.jar"
     },
     {
         "key":"csp_Jpyy",
         "name":"🥇️|金牌|肥猫",
         "type":3,
         "api":"csp_Jpyy",
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
     {
       "key": "可可",
@@ -279,7 +279,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
      {
       "key": "csp_Nongmfeimao",
@@ -287,7 +287,7 @@
       "type":3,
       "api":"csp_Nongm",
       "ext":"https://wwgz.cn",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
     {
         "key":"csp_SaoHuo",
@@ -295,7 +295,7 @@
         "type":3,
         "api":"csp_SaoHuo",
         "playerType":2,
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
     {
         "key":"可可",
@@ -307,14 +307,14 @@
         "quickSearch":1,
         "filterable":1,
         "ext":"https://www.kkys02.com",
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar"
     },
     {
       "key": "csp_SC1080",
       "name": "🏰┃圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
         "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
@@ -332,8 +332,8 @@
        "searchable": 1,
        "quickSearch": 1,
        "filterable": 1,
-       "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/XYQ40513/TVB%E4%BA%91%E6%92%AD.json",
-       "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar"
+       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/XYQ40513/TVB%E4%BA%91%E6%92%AD.json",
+       "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar"
     },
     {
         "key":"达达龟",
@@ -343,8 +343,8 @@
         "searchable":1,
         "quickSearch":1,
         "filterable":1,
-        "jar":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/HeChengChaXiu40228.jar",
-        "ext":"https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
+        "jar":"https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/HeChengChaXiu40228.jar",
+        "ext":"https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/%E8%BE%BE%E8%BE%BE%E9%BE%9F%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "iKanBot",
@@ -354,7 +354,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar",
       "ext": "https://v.ikanbot.com"
     },
      {
@@ -366,7 +366,7 @@
       "changeable": 1,
       "playerType": "2",
       "api": "csp_XBPQ",
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/PandaQ241107.jar",
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/PandaQ241107.jar",
       "ext": {
         "站名": "黑狐影院",
         "主页url": "http://fagmn.com",
@@ -408,7 +408,7 @@
         "searchable": 1,
         "quickSearch": 1,
         "filterable": 1,
-        "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar"
+        "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar"
     },
     {
       "key": "csp_XYQHiker_Vidhub视频库",
@@ -418,8 +418,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/Vidhub%E8%A7%86%E9%A2%91%E5%BA%93%E6%94%B9.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/Vidhub%E8%A7%86%E9%A2%91%E5%BA%93%E6%94%B9.json"
     },
     {
       "key": "csp_XYQBiu_Libvio",
@@ -429,8 +429,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/libvioXYQ.json"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/libvioXYQ.json"
     },
     {
       "key": "南瓜",
@@ -539,8 +539,8 @@
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/apiv177drpy1.min.js",
-      "ext": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/lib/jp.js"
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/apiv177drpy1.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/lib/jp.js"
     },
     {
       "key": "csp_Xunlei8",
@@ -550,7 +550,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "https://gitee.com/mikidisc/ysc/raw/master/aiTVba/spider/XYQ40721.jar"
+      "jar": "https://ghproxy.net/https://raw.githubusercontent.com/Kawasaki2024/20240915/main/aiTVba/spider/XYQ40721.jar"
     },
      {
       "key": "Biliych",
