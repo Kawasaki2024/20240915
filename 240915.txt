@@ -53,12 +53,6 @@ CCTV14,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
 CCTV15,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
 CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
-CGTN,https://0472.org/hls/cgtn.m3u8
-CGTN纪录,https://0472.org/hls/cgtnd.m3u8
-CGTN俄语,https://0472.org/hls/cgtne.m3u8
-CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN西语,https://0472.org/hls/cgtnx.m3u8
-CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
 CHC动作电影,http://115.60.241.249:2000/rtp/225.1.4.208:1261
 CHC动作电影,http://59.174.97.240:8880/rtp/239.69.1.242:11094$湖北电信
