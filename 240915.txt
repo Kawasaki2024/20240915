@@ -108,18 +108,15 @@ CHC影迷电影,http://219.140.227.238:5555/rtp/239.69.1.241:11088$湖北电信
 CHC影迷电影,http://122.189.103.214:8010/udp/228.0.0.233:6108$湖北联通
 
 日卫视频道,#genre#
-更新241116,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
-广东珠江,http://116.22.255.89:9999/udp/239.77.0.114:5146
-广东珠江,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000011655/1.m3u8
-凤凰中文,https://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://211.72.65.236:8576/.m3u8
-凤凰香港,https://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-
+更新241120,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
+鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
-TVB翡翠台,https://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-星河台,http://php.jdshipin.com:8880/smt.php?id=Xinhe
+TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
+TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+
 北京卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226739/index.m3u8
 湖南卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226193/index.m3u8
 东方卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225755/index.m3u8
@@ -479,7 +476,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-神州新聞台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8
 
 广东地区,#genre#
 广东卫视高清,http://183.31.9.43:9001/udp/239.77.1.19:5146
