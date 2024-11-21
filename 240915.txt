@@ -108,12 +108,12 @@ CHC影迷电影,http://219.140.227.238:5555/rtp/239.69.1.241:11088$湖北电信
 CHC影迷电影,http://122.189.103.214:8010/udp/228.0.0.233:6108$湖北联通
 
 日卫视频道,#genre#
-更新241120,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
+更新241121,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
 鳳凰中文,http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
 鳳凰資訊,http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
 鳳凰香港,http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
 TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-TVB翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
+TVB翡翠台,http://162.244.81.53:3333/live/telebostonrtb/playlist.m3u8
 TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
