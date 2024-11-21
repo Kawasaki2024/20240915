@@ -115,7 +115,7 @@ CHC影迷电影,http://122.189.103.214:8010/udp/228.0.0.233:6108$湖北联通
 TVB翡翠台,http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
 TVB翡翠台,http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 TVB翡翠台,http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-TVB星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
+TVB星河台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 
 北京卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226739/index.m3u8
 湖南卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221226193/index.m3u8
