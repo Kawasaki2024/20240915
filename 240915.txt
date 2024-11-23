@@ -34,7 +34,7 @@ CQTV新闻超高清,http://14.106.82.119:6789/rtp/235.254.196.199:7980
 CQTV手持电视,http://14.106.82.119:6789/rtp/235.254.196.219:1148
 CQTV移动,http://14.106.82.119:6789/rtp/235.254.196.217:1140
 
-极速卫视,#genre#
+23极速卫视,#genre#
 江苏卫视超高清,http://14.106.82.119:6789/rtp/235.254.198.64:1532
 浙江卫视超高清,http://14.106.82.119:6789/rtp/235.254.198.63:1528
 东方卫视超高清,http://14.106.82.119:6789/rtp/235.254.198.73:1568
@@ -78,7 +78,7 @@ IPTV6,http://14.106.82.119:6789/rtp/235.254.198.15:1336
 IPTV8,http://14.106.82.119:6789/rtp/235.254.198.16:1340
 CGTN,http://14.106.82.119:6789/rtp/235.254.198.127:1784
 
-23今央视频道,#genre#
+今央视频道,#genre#
 CCTV1,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV2,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
 CCTV3,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
