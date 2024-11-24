@@ -33,7 +33,7 @@ CCTV15高清,http://123.145.64.102:55555/udp/225.0.4.220:7980
 CCTV16高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.184:8001
 CCTV17高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.151:8144
 
-23极速卫视,#genre#
+24极速卫视,#genre#
 北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
 湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 东方卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
@@ -345,7 +345,6 @@ CETV4,http://221.219.72.226:4000/rtp/239.3.1.56:4120
 Channel 5 HD,http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
 Channel 8 HD,http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
 Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-Hoy 78,http://aktv.top/AKTV/live/aktv/hoy78/AKTV.m3u8
 myTV SUPER 18台,http://aktv.top/AKTV/live/aktv/mytvsuper18/AKTV.m3u8
 PopC,http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
 ROCK Action,http://aktv.top/AKTV/live/aktv/rockaction/AKTV.m3u8
@@ -376,12 +375,9 @@ tvN,http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
 龍華電影台,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-Now星影台,http://aktv.top/AKTV/live/aktv2/now/AKTV.m3u8
-TVB 星河台,http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8
 viutv 99,http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
 viutv6 96,http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
 无线新闻台(北美),http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-爆谷台,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 Animax-HK,http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
 C+台,http://aktv.top/AKTV/live/aktv3/c/AKTV.m3u8
 DW,http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
@@ -397,25 +393,6 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8
 東方衛視國際頻道,http://aktv.top/AKTV/live/aktv3/null/AKTV.m3u8
 無線衛星新聞台,http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-
-广东地区,#genre#
-广东卫视高清,http://183.31.9.43:9001/udp/239.77.1.19:5146
-广东卫视高清,http://183.31.9.43:9001/udp/239.77.1.152:5146
-广东卫视高清,http://183.31.9.43:9001/udp/239.77.0.84:5146
-广东卫视超清,http://183.31.9.43:9001/udp/239.77.0.166:5146
-广东珠江高清,http://183.31.9.43:9001/udp/239.77.0.1:5146
-广东珠江超清,http://183.31.9.43:9001/udp/239.77.0.114:5146
-广东新闻高清,http://183.31.9.43:9001/udp/239.77.0.173:5146
-广东民生高清,http://183.31.9.43:9001/udp/239.77.0.225:5146
-广东体育高清,http://183.31.9.43:9001/udp/239.77.0.112:5146
-广东体育超清,http://183.31.9.43:9001/udp/239.77.0.168:5146
-经济科教高清,http://183.31.9.43:9001/udp/239.77.0.85:5146
-经济科教超清,http://183.31.9.43:9001/udp/239.77.0.167:5146
-大湾区卫视高清,http://183.31.9.43:9001/udp/239.77.0.215:5146
-广东影视高清,http://183.31.9.43:9001/udp/239.77.0.217:5146
-南国都市 4K,http://183.31.9.43:9001/udp/239.253.43.99:5146
-广东少儿高清,http://183.31.9.43:9001/udp/239.77.0.250:5146
-嘉佳卡通高清,http://183.31.9.43:9001/udp/239.77.0.179:5146
 
 湾湾数字,#genre#
 RTHK-31,p3p://108.181.32.169:23504/64101f330006ab429853d45f7940453b
