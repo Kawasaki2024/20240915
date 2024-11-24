@@ -6,13 +6,14 @@
 💝IPV6打开,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
 💝盗接口必究,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010003/1.m3u8
 💝卡顿检查网络,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000004000018653/1.m3u8
-💝无频道重启,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
+💝或者换线路,http://[2409:8087:1a0b:df::4006]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8
 💝已更新EPG版本,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000003000012426/1.m3u8
 💝联系作者更新,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225644/main.m3u8
 💝感谢您的支持,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 💝永久免费,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 💝禁止扒源,http://beishan008.asuscomm.com:8890/bysid/82
 💝IPV6专用,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+
 11极速央视,#genre#
 CCTV1高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.129:8008
 CCTV2高清,http://122.231.15.206:4022/udp/233.50.201.119:5140
@@ -28,7 +29,7 @@ CCTV10高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.63:8116
 CCTV11高清,http://122.231.15.206:4022/udp/233.50.201.11:5140
 CCTV12高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.64:8124
 CCTV13高清,hhttp://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.124:8128
-
+CCTV-14高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.65:8132
 CCTV15高清,http://123.145.64.102:55555/udp/225.0.4.220:7980
 CCTV16高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.184:8001
 CCTV17高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.151:8144
@@ -105,24 +106,33 @@ CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
 
-CCTV1,http://219.159.194.131:8181/tsfile/live/0001_1.m3u8
-CCTV2,http://219.159.194.131:8181/tsfile/live/0002_1.m3u8
-CCTV3,http://219.159.194.131:8181/tsfile/live/0003_1.m3u8
-CCTV4,http://219.159.194.131:8181/tsfile/live/0004_1.m3u8
-CCTV5+,http://219.159.194.131:8181/tsfile/live/0016_1.m3u8
-CCTV5,http://219.159.194.131:8181/tsfile/live/0005_1.m3u8
-CCTV6,http://219.159.194.131:8181/tsfile/live/0006_1.m3u8
-CCTV7,http://219.159.194.131:8181/tsfile/live/0007_1.m3u8
-CCTV8,http://219.159.194.131:8181/tsfile/live/0008_1.m3u8
-CCTV9,http://219.159.194.131:8181/tsfile/live/0009_1.m3u8
-CCTV10,http://219.159.194.131:8181/tsfile/live/0010_1.m3u8
-CCTV11,http://219.159.194.131:8181/tsfile/live/0011_1.m3u8
-CCTV12,http://219.159.194.131:8181/tsfile/live/0012_1.m3u8
-CCTV13,http://219.159.194.131:8181/tsfile/live/0013_1.m3u8
-CCTV14,http://219.159.194.131:8181/tsfile/live/0014_1.m3u8
-CCTV15,http://219.159.194.131:8181/tsfile/live/0015_1.m3u8
-CCTV16,http://219.159.194.131:8181/tsfile/live/1021_1.m3u8
-CCTV17,http://219.159.194.131:8181/tsfile/live/0019_1.m3u8
+CCTV-1 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.129:8008
+CCTV-2 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.60:8084
+CCTV-3 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.172:8001
+CCTV-4 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.105:8092
+CCTV-5 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.173:8001
+CCTV-5+ 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.130:8004
+CCTV-6 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.174:8001
+CCTV-7 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.61:8104
+CCTV-8 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.175:8001
+CCTV-9 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.62:8112
+CCTV-10 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.63:8116
+CCTV-11 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.152:8120
+CCTV-12 HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.64:8124
+CCTV-13 HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.124:8128
+CCTV-14 HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.65:8132
+CCTV-15 HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.153:8136
+CCTV-16 奥林匹克[HDR],http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.183:8001
+CCTV-16 奥林匹克HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.184:8001
+CCTV-17 HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.151:8144
+CCTV-4 中文国际 欧洲HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.213:4220
+CCTV-4 中文国际 美洲HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.214:4220
+CGTN 新闻HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.215:4220
+CGTN 记录HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.216:4220
+CGTN 西班牙语HDhttp://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.217:4220
+CGTN 法语HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.218:4220
+CGTN 阿拉伯语HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.219:4220
+CGTN 俄语HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.220:4220
 
 CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
@@ -142,29 +152,6 @@ CCTV14,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
 CCTV15,http://111.193.236.110:8888/rtp/239.3.1.153:8136
 CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
-
-东南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000519/index.m3u8
-贵州卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000036/index.m3u8
-海南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000037/index.m3u8
-河北卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000057/index.m3u8
-河南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000027/index.m3u8
-吉林卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000030/index.m3u8
-江西卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000525/index.m3u8
-辽宁卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000526/index.m3u8
-内蒙卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010109/1.m3u8
-四川卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000025/index.m3u8
-云南卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000035/index.m3u8
-龙江卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010056/1.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000032246/1.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/index.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000001000030202/1.m3u8
-东方卫视,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
-东方卫视,http://[2409:8087:74d9:21::6]:80/000000001000PLTV/88888888/224/3221225755/index.m3u8
-中国教育1,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000002000002652/1.m3u8?channel-id=bestzb&Contentid=5000000002000002652&livemode=1&stbId=3
-中国教育4,http://[2409:8087:5e08:24::11]:6610/000000001000/5000000011000031126/1.m3u8?channel-id=bestzb&Contentid=5000000011000031126&livemode=1&stbId=3
-中国教育1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000046/index.m3u8
-中国教育2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
-中国教育4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 
 CHC动作电影,http://219.156.130.189:8888/rtp/225.1.4.208:1261$河南联通
 CHC动作电影,http://219.140.227.238:5555/rtp/239.69.1.242:11094$湖北电信
@@ -835,167 +822,83 @@ CCTV中视购物,http://175.150.159.235:9001/rtp/232.0.0.202:1234
 河北少儿科教,http://121.29.112.88:8888/hls/30/index.m3u8
 河北公共,http://121.29.112.88:8888/hls/31/index.m3u8
 
-新增频道,#genre#
-25,http://37.27.111.214:8080/live/25/hls.m3u8
-8,http://37.27.111.214:8080/live/8/hls.m3u8
-10,http://37.27.111.214:8080/live/10/hls.m3u8
-20,http://37.27.111.214:8080/live/20/hls.m3u8
-7,http://37.27.111.214:8080/live/7/hls.m3u8
-5,http://37.27.111.214:8080/live/5/hls.m3u8
-30,http://37.27.111.214:8080/live/30/hls.m3u8
-31,http://37.27.111.214:8080/live/31/hls.m3u8
-27,http://37.27.111.214:8080/live/27/hls.m3u8
-35,http://37.27.111.214:8080/live/35/hls.m3u8
-61,http://37.27.111.214:8080/live/61/hls.m3u8
-62,http://37.27.111.214:8080/live/62/hls.m3u8
-65,http://37.27.111.214:8080/live/65/hls.m3u8
-23,http://37.27.111.214:8080/live/23/hls.m3u8
-53,http://37.27.111.214:8080/live/53/hls.m3u8
-78,http://37.27.111.214:8080/live/78/hls.m3u8
-66,http://37.27.111.214:8080/live/66/hls.m3u8
-82,http://37.27.111.214:8080/live/82/hls.m3u8
-83,http://37.27.111.214:8080/live/83/hls.m3u8
-94,http://37.27.111.214:8080/live/94/hls.m3u8
-84,http://37.27.111.214:8080/live/84/hls.m3u8
-108,http://37.27.111.214:8080/live/108/hls.m3u8
-111,http://37.27.111.214:8080/live/111/hls.m3u8
-104,http://37.27.111.214:8080/live/104/hls.m3u8
-16,http://37.27.111.214:8080/live/16/hls.m3u8
-6,http://37.27.111.214:8080/live/6/hls.m3u8
-4,http://37.27.111.214:8080/live/4/hls.m3u8
-42,http://37.27.111.214:8080/live/42/hls.m3u8
-41,http://37.27.111.214:8080/live/41/hls.m3u8
-52,http://37.27.111.214:8080/live/52/hls.m3u8
-63,http://37.27.111.214:8080/live/63/hls.m3u8
-70,http://37.27.111.214:8080/live/70/hls.m3u8
-93,http://37.27.111.214:8080/live/93/hls.m3u8
-98,http://37.27.111.214:8080/live/98/hls.m3u8
-26,http://37.27.111.214:8080/live/26/hls.m3u8
-34,http://37.27.111.214:8080/live/34/hls.m3u8
-54,http://37.27.111.214:8080/live/54/hls.m3u8
-67,http://37.27.111.214:8080/live/67/hls.m3u8
-103,http://37.27.111.214:8080/live/103/hls.m3u8
-102,http://37.27.111.214:8080/live/102/hls.m3u8
-48,http://37.27.111.214:8080/live/48/hls.m3u8
-64,http://37.27.111.214:8080/live/64/hls.m3u8
-1,http://37.27.111.214:8080/live/1/hls.m3u8
-99,http://37.27.111.214:8080/live/99/hls.m3u8
-44,http://37.27.111.214:8080/live/44/hls.m3u8
-86,http://37.27.111.214:8080/live/86/hls.m3u8
-110,http://37.27.111.214:8080/live/110/hls.m3u8
-109,http://37.27.111.214:8080/live/109/hls.m3u8
-101,http://37.27.111.214:8080/live/101/hls.m3u8
-14,http://37.27.111.214:8080/live/14/hls.m3u8
-2,http://37.27.111.214:8080/live/2/hls.m3u8
-15,http://37.27.111.214:8080/live/15/hls.m3u8
-22,http://37.27.111.214:8080/live/22/hls.m3u8
-47,http://37.27.111.214:8080/live/47/hls.m3u8
-71,http://37.27.111.214:8080/live/71/hls.m3u8
-57,http://37.27.111.214:8080/live/57/hls.m3u8
-72,http://37.27.111.214:8080/live/72/hls.m3u8
-45,http://37.27.111.214:8080/live/45/hls.m3u8
-13,http://37.27.111.214:8080/live/13/hls.m3u8
-29,http://37.27.111.214:8080/live/29/hls.m3u8
-19,http://37.27.111.214:8080/live/19/hls.m3u8
-24,http://37.27.111.214:8080/live/24/hls.m3u8
-28,http://37.27.111.214:8080/live/28/hls.m3u8
-9,http://37.27.111.214:8080/live/9/hls.m3u8
-11,http://37.27.111.214:8080/live/11/hls.m3u8
-87,http://37.27.111.214:8080/live/87/hls.m3u8
-40,http://37.27.111.214:8080/live/40/hls.m3u8
-56,http://37.27.111.214:8080/live/56/hls.m3u8
-107,http://37.27.111.214:8080/live/107/hls.m3u8
-106,http://37.27.111.214:8080/live/106/hls.m3u8
-88,http://37.27.111.214:8080/live/88/hls.m3u8
-105,http://37.27.111.214:8080/live/105/hls.m3u8
-80,http://37.27.111.214:8080/live/80/hls.m3u8
-81,http://37.27.111.214:8080/live/81/hls.m3u8
-85,http://37.27.111.214:8080/live/85/hls.m3u8
-46,http://37.27.111.214:8080/live/46/hls.m3u8
-77,http://37.27.111.214:8080/live/77/hls.m3u8
-12,http://37.27.111.214:8080/live/12/hls.m3u8
-92,http://37.27.111.214:8080/live/92/hls.m3u8
+新增卫视,#genre#
+湖南卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.132:8012
+东方卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.136:8032
+浙江卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.137:8036
+江苏卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.135:8028
+深圳卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.134:8020
+广东卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.142:8048
+安徽卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.211:8064
+天津卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.141:1234
+重庆卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.122:8160
+山东卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.209:8052
+黑龙江卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.133:8016
+河北卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.148:8072
+辽宁卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.210:8056
+湖北卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.138:8044
+吉林卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.240:8172
+贵州卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.149:8076
+东南卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.156:8148
+江西卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.123:8164
+海南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.45:8304
+云南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.26:8108
+兵团卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.144:4120
+厦门卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.143:4120
+四川卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.29:8288
+南方卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.161:8001
+宁夏卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.46:8124
+山西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.42:8172
+广西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.39:8300
+新疆卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.48:8160
+河南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.27:8128
+甘肃卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.49:8188
+西藏卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.47:8164
+三沙卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.155:4120
+陕西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.41:8140
+青海卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.44:8184
+内蒙古卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.43:8176
+CETV1HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.57:8152
+CETV2,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.54:4120
+CETV3,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.55:4120
+CETV4,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.56:4120
 
 北京地方,#genre#
-BRTV北京卫视HD,http://114.254.93.135:2222/rtp/239.3.1.241:8000
-BRTV新闻HD,http://114.254.93.135:2222/rtp/239.3.1.159:8000
-BRTV影视HD,http://114.254.93.135:2222/rtp/239.3.1.158:8000
-BRTV文艺HD,http://114.254.93.135:2222/rtp/239.3.1.242:8000
-BRTV财经HD,http://114.254.93.135:2222/rtp/239.3.1.116:8000
-BRTV生活HD,http://114.254.93.135:2222/rtp/239.3.1.117:8000
-
-BRTV纪实科教HD,http://114.254.93.135:2222/rtp/239.3.1.115:8000
-BRTV卡酷少儿HD,http://114.254.93.135:2222/rtp/239.3.1.189:8000
-
-BRTV体育休闲[超清],http://114.254.93.135:2222/rtp/239.3.1.243:8000
-BTV国际频道,http://114.254.93.135:2222/rtp/239.3.1.235:8000
-中国交通HD,http://114.254.93.135:2222/rtp/239.3.1.188:8001
-朝阳融媒HD,http://114.254.93.135:2222/rtp/239.3.1.163:8001
-通州融媒HD,http://114.254.93.135:2222/rtp/239.3.1.221:8001
-密云电视台HD,http://114.254.93.135:2222/rtp/239.3.1.154:8001
-延庆电视台,http://114.254.93.135:2222/rtp/239.3.1.187:8001
-房山电视台,http://114.254.93.135:2222/rtp/239.3.1.96:8001
-BRTV北京卫视HD,http://221.219.101.67:2323/rtp/239.3.1.241:8000
-BRTV新闻HD,http://221.219.101.67:2323/rtp/239.3.1.159:8000
-BRTV影视HD,http://221.219.101.67:2323/rtp/239.3.1.158:8000
-BRTV文艺HD,http://221.219.101.67:2323/rtp/239.3.1.242:8000
-BRTV财经HD,http://221.219.101.67:2323/rtp/239.3.1.116:8000
-BRTV生活HD,http://221.219.101.67:2323/rtp/239.3.1.117:8000
-BRTV青年HD,http://221.219.101.67:2323/#
-BRTV纪实科教HD,http://221.219.101.67:2323/rtp/239.3.1.115:8000
-BRTV卡酷少儿HD,http://221.219.101.67:2323/rtp/239.3.1.189:8000
-BRTV冬奥纪实HD,http://221.219.101.67:2323/#
-BRTV冬奥纪实[HDR],http://221.219.101.67:2323/#
-BRTV冬奥纪实[超清],http://221.219.101.67:2323/#
-BRTV体育休闲[超清],http://221.219.101.67:2323/rtp/239.3.1.243:8000
-BTV国际频道,http://221.219.101.67:2323/rtp/239.3.1.235:8000
-爱上4K[超清],http://221.219.101.67:2323/rtp/239.3.1.236:2000
-4K超清[超清],http://221.219.101.67:2323/rtp/239.3.1.249:8001
-淘电影HD,http://221.219.101.67:2323/rtp/239.3.1.250:8001
-每日影院HD,http://221.219.101.67:2323/#
-星影,http://221.219.101.67:2323/rtp/239.3.1.94:4120
-动作影院,http://221.219.101.67:2323/rtp/239.3.1.92:4120
-光影,http://221.219.101.67:2323/rtp/239.3.1.84:4120
-喜剧影院,http://221.219.101.67:2323/rtp/239.3.1.91:4120
-家庭影院,http://221.219.101.67:2323/rtp/239.3.1.93:4120
-精选,http://221.219.101.67:2323/rtp/239.3.1.74:4120
-经典电影,http://221.219.101.67:2323/rtp/239.3.1.195:9024
-纪实人文HD,http://221.219.101.67:2323/rtp/239.3.1.212:8060
-金鹰纪实HD,http://221.219.101.67:2323/rtp/239.3.1.58:8156
-风尚生活HD,http://221.219.101.67:2323/#
-地理,http://221.219.101.67:2323/rtp/239.3.1.71:4120
-淘剧场HD,http://221.219.101.67:2323/rtp/239.3.1.95:8001
-幸福剧场HD,http://221.219.101.67:2323/#
-淘娱乐HD,http://221.219.101.67:2323/rtp/239.3.1.100:8001
-幸福娱乐HD,http://221.219.101.67:2323/#
-淘BabyHD,http://221.219.101.67:2323/rtp/239.3.1.238:8001
-萌宠TVHD,http://221.219.101.67:2323/rtp/239.3.1.102:8001
-中国交通HD,http://221.219.101.67:2323/rtp/239.3.1.188:8001
-朝阳融媒HD,http://221.219.101.67:2323/rtp/239.3.1.163:8001
-通州融媒HD,http://221.219.101.67:2323/rtp/239.3.1.221:8001
-密云电视台HD,http://221.219.101.67:2323/rtp/239.3.1.154:8001
-延庆电视台,http://221.219.101.67:2323/rtp/239.3.1.187:8001
-房山电视台,http://221.219.101.67:2323/rtp/239.3.1.96:8001
-
-CCTV-4 中文国际 欧洲HD,http://221.219.101.67:2323/rtp/239.3.1.213:4220
-CCTV-4 中文国际 美洲HD,http://221.219.101.67:2323/rtp/239.3.1.214:4220
-CGTN 新闻HD,http://221.219.101.67:2323/rtp/239.3.1.215:4220
-CGTN 记录HD,http://221.219.101.67:2323/rtp/239.3.1.216:4220
-CGTN 西班牙语HD,http://221.219.101.67:2323/rtp/239.3.1.217:4220
-CGTN 法语HD,http://221.219.101.67:2323/rtp/239.3.1.218:4220
-CGTN 阿拉伯语HD,http://221.219.101.67:2323/rtp/239.3.1.219:4220
-CGTN 俄语HD,http://221.219.101.67:2323/rtp/239.3.1.220:4220
-睛彩竞技HD,http://221.219.101.67:2323/rtp/239.3.1.125:8001
-睛彩篮球HD,http://221.219.101.67:2323/rtp/239.3.1.126:8001
-睛彩羽毛球HD,http://221.219.101.67:2323/rtp/239.3.1.127:8001
-睛彩广场舞HD,http://221.219.101.67:2323/rtp/239.3.1.128:8001
-茶频道HD,http://221.219.101.67:2323/rtp/239.3.1.165:8001
-体育赛事HD,http://221.219.101.67:2323/rtp/239.3.1.157:8176
-淘精彩HD,http://221.219.101.67:2323/rtp/239.3.1.178:8001
-快乐垂钓HD,http://221.219.101.67:2323/rtp/239.3.1.164:8001
-大健康HD,http://221.219.101.67:2323/rtp/239.3.1.251:8001
-少儿动画,http://221.219.101.67:2323/rtp/239.3.1.199:9000
-热播剧场,http://221.219.101.67:2323/rtp/239.3.1.194:9020
+BRTV北京卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.241:8000
+BRTV新闻HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.159:8000
+BRTV影视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.158:8000
+BRTV文艺HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.242:8000
+BRTV财经HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.116:8000
+BRTV生活HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.117:8000
+BRTV青年HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.118:8000
+BRTV纪实科教HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.115:8000
+BRTV卡酷少儿HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.189:8000
+BRTV冬奥纪实HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.243:8000
+BRTV冬奥纪实[HDR],http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.120:8000
+BRTV冬奥纪实[超清],http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.121:8000
+BRTV体育休闲[超清],http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.243:8000
+BTV国际频道,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.235:8000
+爱上4K[超清],http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.236:2000
+4K超清[超清],http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.249:8001
+淘电影HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.250:8001
+每日影院HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.111:8001
+星影,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.94:4120
+动作影院,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.92:4120
+光影,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.84:4120
+喜剧影院,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.91:4120
+家庭影院,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.93:4120
+精选,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.74:4120
+经典电影,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.195:9024
+纪实人文HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.212:8060
+金鹰纪实HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.58:8156
+风尚生活HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.114:8001
+地理,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.71:4120
+淘剧场HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.95:8001
+幸福剧场HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.112:8001
+淘娱乐HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.100:8001
+幸福娱乐HD,http://dalubeijing.chunfengyun.top:8888/# rtp/239.3.1.113:8001
+淘BabyHD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.238:8001
+萌宠TVHD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.102:8001
 
 北京联通,#genre#
 CCTV-1 高清,http://111.199.2.123:8686/rtp/239.3.1.129:8008
