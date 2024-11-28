@@ -1,6 +1,6 @@
 张哥直播公告,#genre#
 💝重要通知,https://codeberg.org/SVIP1103950274/Ziyong2024/raw/branch/main/zhanggezhibo2024.mp4
-💝完全免费,http://101.31.56.138:4022/rtp/239.253.93.134:6631$高清4K
+💝完全免费,http://gdctcc-livod.tx-cdn.gitv.tv/gitv_live/G_CCTV-1-HQ/G_CCTV-1-HQ.m3u8$高清8K
 💝QQ1103950274,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
 💝把家里路由器,http://118.81.200.235:8085/rtp/226.0.2.197:9488
 💝IPV6打开,http://[2409:8087:1a01:df::4021]:80/TVOD/88888888/224/3221225555/main.m3u8
