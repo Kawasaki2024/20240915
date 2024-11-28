@@ -1,11 +1,11 @@
 {
   "urls": [
      {
-      "url": "https://11256.kstore.space/TWYS/api.json ",
+      "url": "https://d.kstore.dev/download/7337/tw/自用勿传.txt",
       "name": "🚀天微ViP线"
     },
      {
-      "url": "https://11256.kstore.space/api.json",
+      "url": "https://d.kstore.dev/download/11256/api.json",
       "name": "🚀七星影仓"
     },
      {
@@ -34,7 +34,7 @@
       "name": "🚀不良帅线"
     },
              {
-      "url": "http://饭太硬.com/tv",
+      "url": "http://www.饭太硬.com/tv",
       "name": "🚀饭硬专线"
     },
     {
