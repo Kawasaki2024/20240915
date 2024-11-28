@@ -589,12 +589,20 @@
       "url": "./live/live.txt",
       "playerType": 1,
       "epg": "https://epg.mxdyeah.top/api/diyp/",
-      "logo": "https://gitee.com/yuanjian8916/live/raw/master/logo/{name}.png"
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
       },
     {
       "name": "live-hnyd",
       "type": 0,
       "url": "./live/live-hnyd.txt",
+      "playerType": 1,
+      "epg": "https://epg.mxdyeah.top/api/diyp/",
+      "logo": "https://gitee.com/yuanjian8916/live/raw/master/logo/{name}.png"
+    },
+   {
+      "name": "live-hnlt",
+      "type": 0,
+      "url": "./live/live-hnlt.txt",
       "playerType": 1,
       "epg": "https://epg.mxdyeah.top/api/diyp/",
       "logo": "https://gitee.com/yuanjian8916/live/raw/master/logo/{name}.png"
@@ -624,17 +632,17 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "live-right1",
+      "name": "live-sdyd",
       "type": 0,
-      "url": "./live/live-right1.txt",
+      "url": "./live/live-sdyd.txt",
       "playerType": 1,
       "epg": "https://epg.mxdyeah.top/api/diyp/",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
     {
-      "name": "live-right2",
+      "name": "live-jdshipin",
       "type": 0,
-      "url": "./live/live-right2.txt",
+      "url": "./live/live-jdshipin.txt",
       "playerType": 1,
       "epg": "https://epg.mxdyeah.top/api/diyp/",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
