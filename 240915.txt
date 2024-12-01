@@ -40,7 +40,7 @@ CHC家庭影院,http://118.79.113.146:6000/rtp/226.0.2.240:9820
 江苏教育高清,http://180.126.216.29:8800/rtp/239.49.8.122:8000
 江苏国际高清,http://180.126.216.29:8800/rtp/239.49.1.23:6000
 
-12秒播央视,#genre#
+秒播央视,#genre#
 CCTV1高清,http://221.221.162.225:8888/rtp/239.3.1.129:8008
 CCTV2高清,http://221.221.162.225:8888/rtp/239.3.1.60:8084
 CCTV3高清,http://221.221.162.225:8888/rtp/239.3.1.172:8001
@@ -60,7 +60,7 @@ CCTV15高清,http://221.221.162.225:8888/rtp/239.3.1.153:8136
 CCTV16高清,http://221.221.162.225:8888/rtp/239.3.1.184:8001
 CCTV17高清,http://221.221.162.225:8888/rtp/239.3.1.151:8144
 
-01秒播卫视,#genre#
+秒播卫视,#genre#
 北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
 湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
 东方卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
@@ -105,7 +105,7 @@ CCTV17高清,http://221.221.162.225:8888/rtp/239.3.1.151:8144
 中国教育2台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
 中国教育4台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 
-今央视频道,#genre#
+央视频道,#genre#
 CCTV1,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000311/index.m3u8?IASHttpSessionId=
 CCTV2,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000317/index.m3u8?IASHttpSessionId=
 CCTV3,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000359/index.m3u8?IASHttpSessionId=
@@ -194,7 +194,7 @@ CHC影迷电影,http://219.156.130.189:8888/rtp/225.1.4.207:1260$河南联通
 CHC影迷电影,http://219.140.227.238:5555/rtp/239.69.1.241:11088$湖北电信
 CHC影迷电影,http://171.119.205.227:6001/rtp/226.0.2.93:8004$湖北联通
 
-日卫视频道,#genre#
+卫视频道,#genre#
 更新241201,https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2&checkedby:iptvcat.com
 鳳凰中文,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzw
 鳳凰資訊,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
@@ -292,7 +292,7 @@ TVB星河台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 中国教育2台,http://[2409:8087:74d9:21::6]:80/270000001128/9900000071/index.m3u8
 中国教育4台,http://[2409:8087:74d9:21::6]:80/270000001128/9900000072/index.m3u8
 
-已备用央视,#genre#
+备用央视,#genre#
 CCTV-1 HD,http://221.221.162.225:8888/rtp/239.3.1.129:8008
 CCTV-2 HD,http://221.221.162.225:8888/rtp/239.3.1.60:8084
 CCTV-3 HD,http://221.221.162.225:8888/rtp/239.3.1.172:8001
@@ -312,7 +312,7 @@ CCTV-15 HD,http://221.221.162.225:8888/rtp/239.3.1.153:8136
 CCTV-16 奥林匹克HD,http://221.221.162.225:8888/rtp/239.3.1.184:8001
 CCTV-17 HD,http://221.221.162.225:8888/rtp/239.3.1.151:8144
 
-更备用卫视,#genre#
+备用卫视,#genre#
 湖南卫视HD,http://221.221.162.225:8888/rtp/239.3.1.132:8012
 东方卫视HD,http://221.221.162.225:8888/rtp/239.3.1.136:8032
 浙江卫视HD,http://221.221.162.225:8888/rtp/239.3.1.137:8036
@@ -354,7 +354,7 @@ CETV3,http://221.221.162.225:8888/rtp/239.3.1.55:4120
 CETV4,http://221.221.162.225:8888/rtp/239.3.1.56:4120
 少儿动画,http://221.221.162.225:8888/rtp/239.3.1.199:9000
 
-新湾湾数字,#genre#
+湾湾数字,#genre#
 RTHK-31,p3p://108.181.32.169:23504/64101f330006ab429853d45f7940453b
 RTHK-32,p3p://108.181.32.169:23504/641020b00001b8599859a360613572d7
 RTHK-33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream04/streamPlaylist.m3u8
@@ -589,45 +589,49 @@ CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live
 CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
 
 每日卫视,#genre#
-湖南卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.132:8012
-东方卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.136:8032
-浙江卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.137:8036
-江苏卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.135:8028
-深圳卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.134:8020
-广东卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.142:8048
-安徽卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.211:8064
-天津卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.141:1234
-重庆卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.122:8160
-山东卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.209:8052
-黑龙江卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.133:8016
-河北卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.148:8072
-辽宁卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.210:8056
-湖北卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.138:8044
-吉林卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.240:8172
-贵州卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.149:8076
-东南卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.156:8148
-江西卫视HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.123:8164
-海南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.45:8304
-云南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.26:8108
-兵团卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.144:4120
-厦门卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.143:4120
-四川卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.29:8288
-南方卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.161:8001
-宁夏卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.46:8124
-山西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.42:8172
-广西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.39:8300
-新疆卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.48:8160
-河南卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.27:8128
-甘肃卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.49:8188
-西藏卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.47:8164
-三沙卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.155:4120
-陕西卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.41:8140
-青海卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.44:8184
-内蒙古卫视,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.43:8176
-CETV1HD,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.57:8152
-CETV2,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.54:4120
-CETV3,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.55:4120
-CETV4,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.56:4120
+北京卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000302/index.m3u8?IASHttpSessionId=
+湖南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000324/index.m3u8?IASHttpSessionId=
+东方卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000309/index.m3u8?IASHttpSessionId=
+四川卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000348/index.m3u8?IASHttpSessionId=
+天津卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000327/index.m3u8?IASHttpSessionId=
+安徽卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000328/index.m3u8?IASHttpSessionId=
+山东卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000301/index.m3u8?IASHttpSessionId=
+深圳卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000308/index.m3u8?IASHttpSessionId=
+广东卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000307/index.m3u8?IASHttpSessionId=
+广西卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000368/index.m3u8?IASHttpSessionId=
+江苏卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000304/index.m3u8?IASHttpSessionId=
+江西卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000335/index.m3u8?IASHttpSessionId=
+河北卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000330/index.m3u8?IASHttpSessionId=
+河南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000358/index.m3u8?IASHttpSessionId=
+浙江卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000305/index.m3u8?IASHttpSessionId=
+海南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000347/index.m3u8?IASHttpSessionId=
+湖北卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000325/index.m3u8?IASHttpSessionId=
+山西卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000032/index.m3u8?IASHttpSessionId=
+东南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000310/index.m3u8?IASHttpSessionId=
+贵州卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000329/index.m3u8?IASHttpSessionId=
+辽宁卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=
+重庆卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000341/index.m3u8?IASHttpSessionId=
+黑龙江卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000306/index.m3u8?IASHttpSessionId=
+内蒙古卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000040/index.m3u8?IASHttpSessionId=
+宁夏卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000043/index.m3u8?IASHttpSessionId=
+陕西卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000029/index.m3u8?IASHttpSessionId=
+吉林卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000363/index.m3u8?IASHttpSessionId=
+甘肃卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000349/index.m3u8?IASHttpSessionId=
+云南卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000367/index.m3u8?IASHttpSessionId=
+三沙卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000078/index.m3u8?IASHttpSessionId=
+青海卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000366/index.m3u8?IASHttpSessionId=
+新疆卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000044/index.m3u8?IASHttpSessionId=
+西藏卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000045/index.m3u8?IASHttpSessionId=
+陕西农林卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000072/index.m3u8?IASHttpSessionId=
+兵团卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000071/index.m3u8?IASHttpSessionId=
+延边卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000668/index.m3u8?IASHttpSessionId=
+安多卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000064/index.m3u8
+厦门卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000075/index.m3u8?IASHttpSessionId=
+康巴卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000066/index.m3u8
+大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/index.m3u8
+中国教育1台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000076/index.m3u8?IASHttpSessionId=
+中国教育2台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000077/index.m3u8?IASHttpSessionId=
+中国教育4台,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000666/index.m3u8?IASHttpSessionId=
 
 北京地方,#genre#
 BRTV北京卫视HD,http://123.120.234.158:4022/rtp/239.3.1.241:8000
