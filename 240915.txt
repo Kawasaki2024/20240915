@@ -13,10 +13,10 @@
 💝永久免费,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 💝禁止扒源,http://beishan008.asuscomm.com:8890/bysid/82
 💝IPV6专用,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-241204更新,#genre#
-CHC高清电影,http://183.188.20.65:6000/rtp/226.0.2.93:8004
-CHC动作电影,http://183.188.20.65:6000/rtp/226.0.2.94:8012
-CHC家庭影院,http://183.188.20.65:6000/rtp/226.0.2.240:9820
+241205更新,#genre#
+CHC高清电影,http://118.78.221.245:8686/rtp/226.0.2.93:8004
+CHC动作电影,http://118.78.221.245:8686/rtp/226.0.2.94:8012
+CHC家庭影院,http://118.78.221.245:8686/rtp/226.0.2.240:9820
 
 新辽宁,#genre#
 辽宁卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=
