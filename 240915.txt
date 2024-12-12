@@ -14,9 +14,9 @@
 💝禁止扒源,http://beishan008.asuscomm.com:8890/bysid/82
 💝IPV6专用,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 241213更新,#genre#
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+CHC动作电影,http://171.119.207.28:6000/rtp/226.0.2.94:8012
+CHC家庭影院,http://171.119.207.28:6000/rtp/226.0.2.240:9820
+CHC影迷电影,http://171.119.207.28:6000/rtp/226.0.2.93:8004
 
 新辽宁,#genre#
 辽宁卫视,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00000326/index.m3u8?IASHttpSessionId=
@@ -47,9 +47,9 @@ CGTN法语,https://0472.org/hls/cgtnf.m3u8
 CGTN西语,https://0472.org/hls/cgtnx.m3u8
 CGTN阿语,https://0472.org/hls/cgtna.m3u8
 
-CHC动作电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
-CHC家庭影院,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002028/index.m3u8?IASHttpSessionId=
-CHC影迷电影,http://[2409:8087:3c02:21:0:1:0:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
+CHC动作电影,http://171.119.207.28:6000/rtp/226.0.2.94:8012
+CHC家庭影院,http://171.119.207.28:6000/rtp/226.0.2.240:9820
+CHC影迷电影,http://171.119.207.28:6000/rtp/226.0.2.93:8004
 
 秒播卫视,#genre#
 北京卫视,http://[2409:8087:74d9:21::6]:80/270000001128/9900000516/index.m3u8
