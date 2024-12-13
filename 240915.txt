@@ -525,6 +525,42 @@ ZooMoo,http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
 翡翠台4K,http://aktv.top/AKTV/live/aktv3/4k/AKTV.m3u8
 
 央视频道,#genre#
+CCTV1,http://61.150.67.62:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://61.150.67.62:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://61.150.67.62:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://61.150.67.62:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://61.150.67.62:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5+,http://61.150.67.62:9901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://61.150.67.62:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://61.150.67.62:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://61.150.67.62:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://61.150.67.62:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://61.150.67.62:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://61.150.67.62:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://61.150.67.62:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://61.150.67.62:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://61.150.67.62:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://61.150.67.62:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+CCTV1,http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
+CCTV2,http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
+CCTV3,http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
+CCTV4,http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
+CCTV5,http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
+CCTV5+,http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
+CCTV6,http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
+CCTV7,http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
+CCTV8,http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
+CCTV9,http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
+CCTV10,http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
+CCTV11,http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
+CCTV12,http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
+CCTV13,http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
+CCTV14,http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
+CCTV15,http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
+CCTV16,http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
+CCTV17,http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
+
 CCTV-1 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.129:8008
 CCTV-2 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.60:8084
 CCTV-3 高清,http://dalubeijing.chunfengyun.top:8888/rtp/239.3.1.172:8001
